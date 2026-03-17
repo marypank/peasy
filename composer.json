@@ -1,0 +1,16 @@
+{
+    "name": "marypank/peasy_frm",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maria Pankova",
+            "email": "qitelopdo@gmail.com"
+        }
+    ],
+    "require": {}
+}
